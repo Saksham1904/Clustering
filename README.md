@@ -7,7 +7,6 @@ The Wine Quality dataset comprises a range of physicochemical properties of wine
 
 
 
-```
 
 ## Methodology
 The project applies multiple clustering algorithms (K-Means, Hierarchical Clustering, and Mean Shift) combined with different preprocessing methods to analyze their effectiveness. Evaluation metrics such as Silhouette Score, Calinski-Harabasz Index, and Davies-Bouldin Index are used to compare the performance of these approaches.
